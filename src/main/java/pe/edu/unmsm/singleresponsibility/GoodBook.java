@@ -1,6 +1,6 @@
-package pe.edu.unmsm.s;
+package pe.edu.unmsm.singleresponsibility;
 
-public class BadBook {
+public class GoodBook {
 
     private String name;
     private String author;
@@ -15,11 +15,6 @@ public class BadBook {
 
     public boolean isWordInText(String word){
         return text.contains(word);
-    }
-
-    //métodos para enviar el texto a la consola - esto no debería estar aquí
-    void printTextToConsole(){
-        //código para formatear e imprimir el texto
     }
 
 }

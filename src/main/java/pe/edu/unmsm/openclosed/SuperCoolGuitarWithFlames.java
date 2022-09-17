@@ -1,4 +1,4 @@
-package pe.edu.unmsm.o;
+package pe.edu.unmsm.openclosed;
 
 public class SuperCoolGuitarWithFlames extends Guitar {
 

@@ -1,4 +1,4 @@
-package pe.edu.unmsm.s;
+package pe.edu.unmsm.singleresponsibility;
 
 public class BookPrinter {
 

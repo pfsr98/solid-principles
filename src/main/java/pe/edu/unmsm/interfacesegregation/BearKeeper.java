@@ -1,4 +1,4 @@
-package pe.edu.unmsm.i;
+package pe.edu.unmsm.interfacesegregation;
 
 public interface BearKeeper {
 

@@ -1,4 +1,4 @@
-package pe.edu.unmsm.d;
+package pe.edu.unmsm.dependencyinversion;
 
 public class Windows98MachineDI {
 

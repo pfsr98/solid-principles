@@ -1,4 +1,4 @@
-package pe.edu.unmsm.l;
+package pe.edu.unmsm.liskovsubstitution;
 
 public class ElectricCar implements Car {
 
